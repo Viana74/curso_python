@@ -1,2 +1,2 @@
 # Curso Python
-Guia rápido de Python separados por assunto.
+Guia rápido de programação usando Python separados por assunto.
